@@ -1,6 +1,5 @@
 # COMP3311 Applied Cryptography Project - Partial Collision Finding
 
-**Author:** Lau Ming Hong (22079217D)  
 **Course:** COMP3311 Applied Cryptography  
 **Project:** SHA256 Partial Collision Finding  
 
@@ -222,7 +221,7 @@ This project demonstrates:
 
 ## License
 
-This project is submitted as coursework for COMP3311 Applied Cryptography at The Hong Kong Polytechnic University.
+This project is submitted as coursework for COMP3311 Applied Cryptography at The Hong Kong Polytechnic University. Reference only. 
 
 ---
 
